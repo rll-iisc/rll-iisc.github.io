@@ -1,3 +1,3 @@
 # rll-iisc.github.io
 
-The web design is based on Ermon Group.
+The web design is based on Ermon Group webpage.
